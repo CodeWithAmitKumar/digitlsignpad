@@ -18,7 +18,7 @@ const socialLinks = [
   },
   {
     icon: Instagram,
-    url: 'https://www.instagram.com/thatodiapila/profilecard/?igsh=MXRyeXBjZ2l2ZXduZQ==',
+    url: 'https://www.instagram.com/thatodiapila/',
     label: 'Instagram',
     hoverColor: 'hover:text-[#E4405F]',
     glowColor: 'rgba(228, 64, 95, 0.4)' // Instagram glow
