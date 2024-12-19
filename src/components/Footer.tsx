@@ -4,21 +4,21 @@ import React from 'react';
 const socialLinks = [
   {
     icon: Github,
-    url: 'https://github.com/amitkumarpatra',
+    url: 'https://github.com/CodeWithAmitKumar',
     label: 'GitHub',
     hoverColor: 'hover:text-[#333333]',
     glowColor: 'rgba(51, 51, 51, 0.4)' // GitHub glow
   },
   {
     icon: Linkedin,
-    url: 'https://linkedin.com/in/amitkumarpatra',
+    url: 'https://www.linkedin.com/in/amit-web-developer/',
     label: 'LinkedIn',
     hoverColor: 'hover:text-[#0A66C2]',
     glowColor: 'rgba(10, 102, 194, 0.4)' // LinkedIn glow
   },
   {
     icon: Instagram,
-    url: 'https://instagram.com/amitkumarpatra',
+    url: 'https://www.instagram.com/thatodiapila/profilecard/?igsh=MXRyeXBjZ2l2ZXduZQ==',
     label: 'Instagram',
     hoverColor: 'hover:text-[#E4405F]',
     glowColor: 'rgba(228, 64, 95, 0.4)' // Instagram glow
