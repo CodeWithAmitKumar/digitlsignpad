@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .glow {
+    filter: drop-shadow(0 0 8px var(--glow-color));
+  }
+}
