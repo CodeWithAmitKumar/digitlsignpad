@@ -1,5 +1,5 @@
+import { Github, Instagram, Linkedin } from 'lucide-react';
 import React from 'react';
-import { Github, Linkedin, Instagram } from 'lucide-react';
 
 const socialLinks = [
   {
@@ -31,7 +31,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center justify-center gap-4">
           <p className="text-gray-600 dark:text-gray-300 text-center">
-            Developed with{' '}
+            Developed {' '}
             <span className="inline-block animate-pulse text-red-500">❤️</span>{' '}
             by{' '}
             <span className="font-semibold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
